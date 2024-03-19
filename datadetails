@@ -1,0 +1,12 @@
+% %%comparision has to be done between
+% % 1) 3,6,8(sum=5) vs 13,14
+% % 2) 4,5,7(sum=4) Vs 15,16
+% % perstimset=[4,5,7];
+% % aperstimset=[15,16];
+% %%for periodicity =4
+%   perstimset=[1,2,9,10];
+%  aperstimset=[11,12];
+% 
+% % perstimset=[3,6,8];
+% % aperstimset=[13,14];
+% %clear all
